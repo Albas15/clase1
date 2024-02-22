@@ -1,0 +1,27 @@
+*
+{
+    background-color: rgb(189, 188, 162);
+    margin: 20px;
+}
+body{
+    font-family: Tahoma;
+}
+h1{
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    color: hotpink;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p1{
+    background-color: crimson;
+    color: darkblue;
+    text-align: justify;
+
+}
+img{
+    width: 40%;
+    height: 50%;
+}
